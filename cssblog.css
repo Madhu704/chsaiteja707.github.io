@@ -1,0 +1,118 @@
+body{
+	border:auto solid grey;
+	
+	max-width: 1000px;
+	width: 200%;
+	height: auto;
+	margin-left: 145px;
+
+}
+
+.col-lg{
+	text-align: center;
+}
+
+.name{
+	padding-top: 70px;
+	padding-left: 50px;
+	font-size: 43px;	
+	font-family: 'Architects Daughter', cursive;
+}
+.col-narrow {
+	width: 30%;
+	float: left;
+	min-height: 90px;
+}
+
+.col-wide {
+	width: 70%;
+	float: left;
+	padding-left: 20px;
+	min-height: 90px;
+}
+
+.heading{
+	font-family: 'Neucha', cursive;
+}
+
+.sub-head{
+	padding-left: 40px;
+	font-family: 'Ruda', sans-serif;
+}
+
+.content{
+	padding-top: 5px;
+}
+
+h1{
+	color: #1C5069;
+	font-size: 40px
+}
+
+.about{
+	font-family: 'Quattrocento', serif;
+	font-size: 18px;
+}
+img{
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
+
+.date{
+	color:#B37C7C;
+	font-size: 25px;
+	
+
+}
+
+.quote{
+	border-left: 5px solid green;
+	padding-left: 5px
+}
+
+
+.col-narrow-edu {
+	padding-top: 25px;
+	width: 30%;
+	float: left;
+	min-height: 175px;
+}
+
+.bg-light {
+    background-color: #945d5d!important;
+}
+
+.col-wide-edu {
+	padding-top: 25px;
+	width: 70%;
+	float: left;
+	padding-left: 20px;
+	min-height: 175px;
+}
+
+.col-narrow-pro {
+	padding-top: 20px;
+	width: 30%;
+	float: left;
+	min-height: 175px;
+}
+.container{
+	padding-top: 0px;
+}
+
+.col-narrow-intrest {
+	padding-top: 30px;
+	width: 30%;
+	float: left;
+	min-height: 175px;
+}
+
+.col-wide-pro {
+	padding-top: 20px;
+	width: 70%;
+	float: left;
+	padding-left: 20px;
+	min-height: 175px;
+}
