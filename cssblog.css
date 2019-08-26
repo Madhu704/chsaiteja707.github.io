@@ -1,13 +1,11 @@
-body{
-	border:auto solid grey;
-	
-	max-width: 1000px;
-	width: 200%;
-	height: auto;
-	margin-left: 145px;
 
+body {
+    border: auto solid grey;
+    max-width: auto;
+    width: auto;
+    height: auto;
+    margin-left: auto;
 }
-
 .col-lg{
 	text-align: center;
 }
